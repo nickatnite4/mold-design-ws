@@ -1,3 +1,2 @@
-body {
-    color: orange;
-}
+@import 'normalize.css';
+@import 'base/_global.css';
